@@ -114,3 +114,5 @@ var one_day_After_NBR = NBR2.multiply(K).rename('NBR1DayAftK');
 print('1 Day After NBR multiplied by K:', one_day_After_NBR);
 var one_yr_After_NBR = NBR3.multiply(K).rename('NBR1YrAftK');
 print('1 Day Before NBR multiplied by K:', one_yr_After_NBR);
+rint('1 Day Before NBR multiplied by K:', one_yr_After_NBR);
+
